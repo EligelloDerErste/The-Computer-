@@ -1,6 +1,6 @@
 # 🖥️ THE COMPUTER
 
-![THE COMPUTER Banner](logo_breit.png)
+![THE COMPUTER Banner](assets/logo_breit.png)
 
 > **THE COMPUTER** is a mysterious game currently in development.  
 > Very little is known so far — and that is intentional.
@@ -29,7 +29,7 @@ Gameplay, story, and features may change at any time.
 
 ## 📸 First Look
 
-![THE COMPUTER Logo](logo.png)
+![THE COMPUTER Logo](assets/logo.png)
 
 *(Screenshots, videos, and more details will be shared in the future.)*
 
