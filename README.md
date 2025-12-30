@@ -37,7 +37,7 @@ Gameplay, story, and features may change at any time.
 
 ## 📌 Note
 
-This repository is currently used for development purposes.  
+This repository is currently used for news only.  
 Release date, and further details will be announced later.
 
 ---
